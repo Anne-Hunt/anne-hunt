@@ -15,14 +15,14 @@ Here are some ideas to get you started:
 ### Coding is Problem Solving
 
 <div align="center">
-<img src="https://media.licdn.com/dms/image/D4D03AQHC8e0iu0F-tA/profile-displayphoto-shrink_800_800/0/1710701563815?e=1721865600&v=beta&t=oepJr1d2v1rvqPnDZpcplqNXEqDdN0GEFnaAuaIo-nI" align="center" style="width: 100%" />
+<!-- <img src="https://media.licdn.com/dms/image/D4D03AQHC8e0iu0F-tA/profile-displayphoto-shrink_800_800/0/1710701563815?e=1721865600&v=beta&t=oepJr1d2v1rvqPnDZpcplqNXEqDdN0GEFnaAuaIo-nI" align="center" style="width: %" /> -->
 </div>  
   
 
 ### <div align="center">I'm Anne, a full stack web developer and creative problem solver</div>  
   
 
-- I'm currently working on two different Ipsum generators  
+- 🔭 I'm currently working on two different Ipsum generators  
   
 
 - 🌱 I'm currently learning PHP  
